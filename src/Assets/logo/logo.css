@@ -1,0 +1,66 @@
+#Desktop__8 {
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+#Group_1 {
+	animation: 1s linear 0s 1 normal forwards running Group_1;
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+@keyframes Group_1 {
+	0% {
+		transform: rotate(0deg);
+	}
+	10% {
+		transform: rotate(-55.11deg);
+	}
+	20% {
+		transform: rotate(-45deg);
+	}
+	30% {
+		transform: rotate(-45deg);
+	}
+	40% {
+		transform: rotate(-45deg);
+	}
+	50% {
+		transform: rotate(-45deg);
+	}
+	60% {
+		transform: rotate(-45deg);
+	}
+	70% {
+		transform: rotate(-45deg);
+	}
+	80% {
+		transform: rotate(-45deg);
+	}
+	90% {
+		transform: rotate(-15deg);
+	}
+	100% {
+		transform: rotate(15deg);
+	}
+}
+#O_ {
+	animation: 1s linear 0s 1 normal forwards running O_;
+	transform-box: fill-box;
+	transform-origin: 50% 50%
+}
+@keyframes O_ {
+	0% {
+		transform: translateY(0px);
+	}
+	20% {
+		transform: translateY(-81px);
+	}
+	40% {
+		transform: translateY(81px);
+	}
+	60% {
+		transform: translateY(-81px);
+	}
+	80% {
+		transform: translateY(81px);
+	}
+}
